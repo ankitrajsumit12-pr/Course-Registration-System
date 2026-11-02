@@ -1,0 +1,6 @@
+CS101|Advanced C Programming|4|30|30
+CS102|Data Structures & Algorithms|4|25|24
+CS103|Operating Systems|3|20|20
+CS104|Database Management Systems|3|25|25
+CS105|Computer Networks|3|2|1
+CS108|ML|1|10|10

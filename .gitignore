@@ -1,0 +1,19 @@
+# Compiled binaries and object files
+*.exe
+*.o
+*.obj
+*.out
+*.app
+*.pdb
+*.ilk
+
+# IDE and Editor configurations
+.vscode/
+.vs/
+.idea/
+*.swp
+*~
+
+# OS generated files
+Thumbs.db
+.DS_Store
